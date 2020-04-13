@@ -1,0 +1,4 @@
+module CWrapper {
+    header "../incubed/incubed.h"
+    export *
+}
